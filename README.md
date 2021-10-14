@@ -1,6 +1,6 @@
 ### Olá! Eu ou o André 👋
 
-- 🌱 Estudando: Ruby e Python
+- 🌱 Estudando: HTML + CSS, JavaScript e Python
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Eu sou um palhaço 
 - 🎂 aniversário: 07/04
