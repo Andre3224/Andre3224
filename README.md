@@ -3,7 +3,7 @@
 - 🌱 Estudando: Ruby e Python
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Eu sou um palhaço 
-
+- 🎂 aniversário: 07/04
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
