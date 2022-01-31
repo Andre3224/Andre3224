@@ -2,7 +2,6 @@
 
 - 🌱 Estudando: HTML + CSS, JavaScript e Python
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Eu sou um palhaço 
 - 🎂 aniversário: 07/04
 
 <div style="display: inline_block"><br>
